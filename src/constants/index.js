@@ -151,7 +151,7 @@ import {
         "Spending time with my beautiful girlfriend as often as I can.",
         "Working with friends and family to get my girlfriend nice gifts.",
         "Taking my girlfriend out to fancy restaurants.",
-        "Participating in fun activities with my girlfriends.",
+        "Participating in fun activities with my girlfriend.",
       ],
     },
   ];

@@ -29,7 +29,7 @@ const About = () => {
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1.2)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in Python, HTML, CSS, and JavaScript, Frameworks like React and Three.js, and Design Software like Photoshop and Illustrator. I'm a quick learner and work closely with both clients and partners to create user-friendly and smart solutions that solve problems.
+        I'm a software developer skilled in Python, JavaScript, React, Three.js, and design tools like Photoshop and Illustrator. I create user-friendly solutions by collaborating closely with clients and partners.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
