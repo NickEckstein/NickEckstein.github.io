@@ -49,7 +49,7 @@ import {
       icon: backend,
     },
     {
-      title: "Husband",
+      title: "Student",
       icon: creator,
     },
   ];
@@ -142,16 +142,16 @@ import {
       ],
     },
     {
-      title: "Husband",
-      company_name: "Personal",
+      title: "Student",
+      company_name: "Farmingdale State College",
       icon: color,
       iconBg: "#E6DEDD",
-      date: "April 2024 - Present",
+      date: "August 2020 - December 2024",
       points: [
-        "Spending time with my beautiful girlfriend as often as I can.",
-        "Working with friends and family to get my girlfriend nice gifts.",
-        "Taking my girlfriend out to fancy restaurants.",
-        "Participating in fun activities with my girlfriend.",
+        "Working on my senior project, T-Shirt.co.",
+        "Practicing code in Java and Python.",
+        "Participating in lectures related to Computer Programming.",
+        "Joining the Computer Programming Club.",
       ],
     },
   ];
